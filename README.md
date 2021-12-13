@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @sriramukundoor
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning R/ R Shiny/ Data Science concepts
-- 💞️ I’m looking to collaborate on R Shiny apps and dashboards
-- 📫 How to reach me sreeramkundoo@gmail.com
+This is a R shiny dashboard I have develop to visualize the safety and efficacy aspects of a clinical trial. In order execute the code, user need to install the below libraries.
+
+library(shiny)
+library(shinythemes)
+library(readr)
+library(ggplot2)
+library(survival)
+library(survminer)
+library(waterfalls)
 
 <!---
 sriramukundoor/sriramukundoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
