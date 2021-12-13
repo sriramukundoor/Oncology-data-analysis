@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sriramukundoor
-This is a R shiny dashboard I have develop to visualize the safety and efficacy aspects of a clinical trial. In order execute the code, user need to install the below libraries.
+This is a R shiny dashboard which I have developed to visualize the safety and efficacy aspects of a clinical trial. In order execute the code, the user need to install the below libraries and import the alltte.CSV file. 
 
 library(shiny)
 library(shinythemes)
