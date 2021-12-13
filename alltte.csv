@@ -1,0 +1,127 @@
+AGE,AGECAT,SEX,SEXN,RACE,RACEN,ETHNIC,ETHNICN,COHORT,TRT01PN,MORPHO,STAGE,PARAMCD,PARAM,ABLFL,CHG,PCHG,AVAL,CNSR,subject,subjid,BOR
+56,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-6674,27.14285714,6.176591376,0,1,,PR
+75,>=65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-6837,11.84931277,50.10266941,1,2,,CR
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,II,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1191,11.84931277,25.26488706,0,3,,CR
+69,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1382,11.84931277,56.31211499,1,4,,PR
+73,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1277,-7.066795741,47.60574949,0,5,,PR
+55,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2814,-16.6015625,52.79671458,1,6,,PR
+65,>=65 Years,M,1,OTHER,6,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-656,-27.25806452,46.39014374,0,7,,PR
+55,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-828,-27.25806452,51.15400411,1,8,,CR
+50,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2318,-27.25806452,50.95687885,1,9,,CR
+68,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-634,-30.55555556,13.73305955,0,10,,SD
+65,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1317,-30.6122449,50.49691992,1,11,,CR
+72,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-407,-33.58974359,50.03696099,1,12,,CR
+55,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-12260,-36.66404406,49.80698152,1,13,,SD
+65,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-465,-36.66404406,49.57700205,1,14,,PR
+65,>=65 Years,M,1,WHITE,5,,,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2842,-36.66404406,19.94250513,0,15,,CR
+63,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-6505,-43.49112426,35.90965092,1,16,,CR
+55,<65 Years,F,2,WHITE,5,HISPANIC OR LATINO,1,Cohort 2,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-450,-46.77713339,30.81724846,0,17,,PR
+69,>=65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3903,-51.05882353,38.07802875,1,18,,CR
+65,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-910,-51.05882353,35.54825462,1,19,,PR
+60,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-430,-51.05882353,19.94250513,0,20,,CR
+55,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-445,-52.88888889,34.46406571,1,21,,SD
+52,<65 Years,M,1,OTHER,6,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2684,-52.88888889,3.318275154,0,22,,PR
+55,<65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3074,-52.88888889,3.843942505,0,23,,PR
+52,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-15496,-56.61622041,40.83778234,1,24,,PR
+62,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2388,-62.1672329,40.08213552,1,25,,CR
+66,>=65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1437,-64.3956044,23.9835729,0,26,,CR
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-7850,-66.97441044,32.82135524,1,27,,PR
+66,>=65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1930,-69.28961749,13.53593429,0,28,,CR
+57,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2443,-69.3231441,38.14373717,1,29,,CR
+56,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-12987,-69.3231441,7.983572895,0,30,,PR
+60,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2204,-69.3231441,52.33675565,1,31,,PR
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,,,,-71.18690815,2.36550308,0,32,,NE
+58,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2486,-71.18690815,49.3798768,1,33,,CR
+64,<65 Years,M,1,OTHER,6,NOT HISPANIC OR LATINO,2,Cohort 2,1,OTHER,IV,OS,,,,-71.18690815,0.62422998,0,34,,NE
+79,>=65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1946,-71.83303085,32.3613963,1,35,,CR
+74,>=65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1459,-72.63492063,2.299794661,0,36,,SD
+60,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2668,-72.63492063,39.95071869,1,37,,PR
+65,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-588,-72.63492063,19.02258727,0,38,,PD
+53,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-4645,-74.73684211,33.77412731,1,39,,CR
+68,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-994,-78.78211227,31.93429158,1,40,,PR
+54,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-73,-78.90070922,32.13141684,1,41,,PD
+66,>=65 Years,M,1,WHITE,5,,,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3003,-80.35714286,32.3613963,1,42,,CR
+63,<65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-426,-81.95419847,40.90349076,1,43,,SD
+73,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-99,-82.79489106,9.429158111,0,44,,PD
+68,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-6134,-83.10282622,46.55441478,0,45,,CR
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1334,-85.83659846,36.50102669,1,46,,CR
+68,>=65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3063,-85.83659846,32.59137577,1,47,,PR
+64,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2405,-85.83659846,31.01437372,1,48,,PR
+60,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,342,-86.17424242,2.95687885,0,49,,PD
+72,>=65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-8084,-86.45566922,24.90349076,0,50,,CR
+73,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-170,-86.45566922,4.796714579,0,51,,PD
+55,<65 Years,M,1,BLACK OR AFRICAN AMERICAN,3,HISPANIC OR LATINO,1,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1273,-86.45566922,32.3613963,1,52,,CR
+65,>=65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-360,-88.86639676,5.486652977,0,53,,PD
+73,>=65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-131,-88.86639676,1.248459959,0,54,,PD
+54,<65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-6137,-88.86639676,55.39219713,1,55,,CR
+60,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2051,-89.41018767,34.89117043,0,56,,SD
+70,>=65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2131,-89.41690962,37.48665298,0,57,,CR
+56,<65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2823,-89.46894689,4.76386037,0,58,,SD
+65,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-2713,-89.55119215,31.47433265,1,59,,CR
+66,>=65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 2,1,NODULAR,II,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1979,-90.10989011,40.21355236,1,60,,PR
+65,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-7743,-90.99356683,12.61601643,0,61,,PR
+65,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-7743,-91.40786749,12.61601643,0,62,,PR
+65,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-7743,-91.40786749,12.61601643,0,63,,PR
+61,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1398,-91.40786749,7.227926078,0,64,,PD
+61,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1398,-91.99841553,7.227926078,0,65,,PD
+61,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1398,-92.11129296,7.227926078,0,66,,PD
+65,>=65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-840,-92.20447284,35.61396304,1,67,,PR
+65,>=65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-840,-92.39642185,35.61396304,1,68,,PR
+65,>=65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-840,-92.40924092,35.61396304,1,69,,PR
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-476,-92.40924092,4.435318275,0,70,,SD
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-476,-92.40924092,4.435318275,0,71,,SD
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-476,-92.65710383,4.435318275,0,171,,SD
+61,<65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,UNKNOWN,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3617,-92.87940542,35.84394251,1,72,,CR
+61,<65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,UNKNOWN,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3617,-93,35.84394251,1,172,,CR
+61,<65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,UNKNOWN,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3617,-93.20754717,35.84394251,1,73,,CR
+68,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-5078,-93.20754717,22.86652977,0,173,,CR
+68,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-5078,-93.20754717,22.86652977,0,74,,CR
+68,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-5078,-93.46963686,22.86652977,0,174,,CR
+61,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-651,-94.06047516,38.83367557,1,75,,SD
+61,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-651,-94.06047516,38.83367557,1,175,,SD
+61,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-651,-94.06047516,38.83367557,1,76,,SD
+59,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1652,-94.21296296,15.47433265,0,176,,CR
+59,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1652,-94.22461848,15.47433265,0,77,,CR
+59,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 2,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1652,-94.22461848,15.47433265,0,177,,CR
+61,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,3526,-94.22461848,12.28747433,0,78,,PD
+61,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,3526,-95.24752475,12.28747433,0,178,,PD
+61,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,3526,-95.2882827,12.28747433,0,79,,PD
+51,<65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-4390,-95.77091136,49.34702259,0,179,,PR
+51,<65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-4390,-96.19680851,49.34702259,0,80,,PR
+51,<65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-4390,-96.19680851,49.34702259,0,180,,PR
+70,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,II,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-8113,-96.19680851,49.41273101,1,81,,PR
+70,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,II,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-8113,-96.3161934,49.41273101,1,181,,PR
+70,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,NODULAR,II,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-8113,-96.3161934,49.41273101,1,82,,PR
+66,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1742,-96.3161934,34.23408624,1,182,,PR
+66,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1742,-97.06867672,34.23408624,1,83,,PR
+66,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,III,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1742,-97.9132703,34.23408624,1,183,,PR
+45,<65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1915,-98.84044527,34.00410678,1,84,,CR
+45,<65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1915,-98.93536122,34.00410678,1,184,,CR
+45,<65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1915,-99.69170058,34.00410678,1,85,,CR
+57,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-5915,-100,12.58316222,0,185,,PR
+57,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-5915,-100,12.58316222,0,86,,PR
+57,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,PLEOMORPHIC,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-5915,-100,12.58316222,0,186,,PR
+58,<65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1255,-100,35.15400411,1,87,,PR
+58,<65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1255,-100,35.15400411,1,187,,PR
+58,<65 Years,F,2,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1255,-100,35.15400411,1,88,,PR
+38,<65 Years,M,1,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,4,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-635,-100,31.47433265,1,188,,SD
+38,<65 Years,M,1,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,4,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-635,-100,31.47433265,1,89,,SD
+38,<65 Years,M,1,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,4,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-635,-100,31.47433265,1,189,,SD
+56,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-883,-100,35.35112936,1,90,,PR
+56,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-883,-100,35.35112936,1,190,,PR
+56,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,UNKNOWN,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-883,-100,35.35112936,1,91,,PR
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3470,-100,26.84188912,1,191,,CR
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3470,-100,26.84188912,1,92,,CR
+71,>=65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-3470,-100,26.84188912,1,192,,CR
+65,>=65 Years,M,1,OTHER,6,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-13832,-100,23.68788501,0,93,,PR
+65,>=65 Years,M,1,OTHER,6,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-13832,-100,23.68788501,0,94,,PR
+65,>=65 Years,M,1,OTHER,6,NOT HISPANIC OR LATINO,2,Cohort 1,1,BLASTOID,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-13832,-100,23.68788501,0,95,,PR
+65,>=65 Years,M,1,OTHER,6,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-845,-100,11.40041068,0,96,,PD
+65,>=65 Years,M,1,OTHER,6,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-845,-100,11.40041068,0,97,,PD
+65,>=65 Years,M,1,OTHER,6,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-845,-100,11.40041068,0,98,,PD
+71,>=65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1144,-100,29.60164271,1,99,,SD
+71,>=65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1144,-100,29.60164271,1,100,,SD
+71,>=65 Years,M,1,WHITE,5,HISPANIC OR LATINO,1,Cohort 1,1,DIFFUSE,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-1144,-100,29.60164271,1,101,,SD
+62,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-10311,-100,20.13963039,0,102,,PR
+62,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-10311,,20.13963039,0,103,,PR
+62,<65 Years,M,1,WHITE,5,NOT HISPANIC OR LATINO,2,Cohort 1,1,CLASSICAL MCL OTHER,IV,OS,Sum of Products of Perpendicular Diameters (mm^2) - Investigator,,-10311,,20.13963039,0,104,,PR
